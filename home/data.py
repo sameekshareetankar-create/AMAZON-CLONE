@@ -99,3 +99,17 @@ footer_data = [
     },
 ]
 
+subnavbar_data = [
+    "Today's Deals",
+    "Coupons",
+    "Hotel Booking",
+    "Gift Cards",
+    "Amazon Pay",
+    "Browsing History",
+    "Keep Shopping for",
+    "Buy Again",
+    "Prime",
+    "Gift Ideas",
+    "Fresh",
+    "Grocery & Gourmet Foods",
+]
